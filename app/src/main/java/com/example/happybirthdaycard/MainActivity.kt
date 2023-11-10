@@ -14,6 +14,7 @@ import java.util.Calendar
 @Suppress("NAME_SHADOWING")
 //This is my first upload to Github
 //Learning to connect to github
+//Updating with new knowledge
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
