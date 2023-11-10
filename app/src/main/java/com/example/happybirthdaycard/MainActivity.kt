@@ -15,6 +15,7 @@ import java.util.Calendar
 //This is my first upload to Github
 //Learning to connect to github
 //Updating with new knowledge
+//new update
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
